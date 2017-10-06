@@ -1,4 +1,7 @@
-# MeetUp. React + LoopBackIO
+MeetUp. React + LoopbackIo
+=============================
 
-# 1) npm install
-# 2) node .
+QUICK START
+-----------
+        $ npm install
+        $ node .
